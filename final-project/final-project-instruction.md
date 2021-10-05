@@ -6,11 +6,10 @@ You will work on a final project **independently**. The goal of the project is 
 
 There are a few milestones for the final project.
 
-1. **March 12, Friday**: Project Proposal (50 points, it is a part of Assignment 3.) 
-2. **March 26, Friday**: Project Progress Updates 1 (25 points, it is a part of Assignment 4.)
-3. **April 12, Friday**: Project Progress Updates 2 (25 points, it is a part of Assignment 5.)
-4. **April 27 and 29:** Project Presentation (40 points for your presentation, 10 points for your participation in other students' presentations.)
-5. **May 7**: Final Project Report (150 points).
+1. **October 20, Wendesday**: Project Proposal (50 points) 
+2. **November 10, Wendesday**: Project Progress Updates 1 (50 points)
+3. **November 30, Tuesday:** Project Presentation (40 points for your presentation, 10 points for your participation in other students' presentations.)
+5. **December 9, Thurseday**: Final Project Report (150 points).
 
 ## Deliverables
 
@@ -22,11 +21,11 @@ You need to describe the title, the motivation, the data, and the initial questi
 
 ### Project Progress Updates
 
-You need to submit your project updates twice, along with Assignment 4 and 5.
+You need to submit your project updates that include your data processing and preliminary analysis.
 
 ### Presentation
 
-You will give a 15-minute presentation to show your analysis, results, and findings in classes of the last week.
+You will give a 8-minute presentation to show your analysis, results, and findings in classes of the last week.
 
 ### Project Report
 
